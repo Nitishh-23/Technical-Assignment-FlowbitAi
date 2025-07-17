@@ -1,0 +1,12 @@
+{
+  "name": "seed",
+  "version": "1.0.0",
+  "main": "seed.js",
+  "scripts": {
+    "start": "node seed.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "mongoose": "^7.4.2"
+  }
+}

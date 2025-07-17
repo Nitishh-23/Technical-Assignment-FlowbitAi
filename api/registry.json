@@ -1,0 +1,4 @@
+[
+    { "customerId": "customer_1_logistics", "screen": "SupportTicketsApp", "screenUrl": "http://localhost:3002/remoteEntry.js" },
+    { "customerId": "customer_2_retail", "screen": "SupportTicketsApp", "screenUrl": "http://localhost:3002/remoteEntry.js" }
+]
